@@ -19,7 +19,7 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-whitelist"
+           id="cordova-plugin-whitelist-old"
       version="1.0.0">
     <name>Whitelist</name>
     <description>Cordova Network Whitelist Plugin</description>
